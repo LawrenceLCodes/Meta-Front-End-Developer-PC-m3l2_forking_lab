@@ -12,3 +12,8 @@ Purple
 Brown
 Red
 Dark blue
+Royal Blue
+Emerald Green
+Sky Blue
+Magenta
+Cream

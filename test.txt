@@ -1,0 +1,1 @@
+This is a test for learning git and GitHub. I forked from another repository and then made edits to some of the files. I will then add those files to stage them, commit the files, then push to my repo. Once that has been completed I will open a pull request.
