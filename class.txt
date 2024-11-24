@@ -17,3 +17,5 @@ Emerald Green
 Sky Blue
 Magenta
 Cream
+Grey
+Beige
